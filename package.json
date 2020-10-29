@@ -1,5 +1,5 @@
 {
-  "name": "generate-pdf-react-app",
+  "name": "pdf-from-images-react-app",
   "version": "0.1.0",
   "description": "React web app for generating a PDF file from uploaded images",
   "keywords": [
