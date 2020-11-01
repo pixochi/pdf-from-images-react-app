@@ -1,6 +1,6 @@
 # React app for converting uploaded images to PDF
 
-Read more about the app: [Generating PDF from Images on the Client-side With React](https://medium.com/).
+Read more about the app: [Generating PDF from Images on the Client-side With React](https://jakub-kozak.medium.com/generating-pdf-from-images-on-the-client-side-with-react-a971b61de28c).
 
 Live demo: https://pixochi.github.io/pdf-from-images-react-app/
 
