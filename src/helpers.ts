@@ -1,6 +1,15 @@
 import jsPDF from "jspdf";
 
-import { CustomImage } from "./custom-image";
+export class CustomImage extends Image {
+  constructor(public mimeType: string) {
+    super();
+  }
+
+  get imageType(): string {
+    return this.mimeType.split("/")[1];
+  }
+}
+
 
 const A4_PAPER_DIMENSIONS = {
   width: 210,
